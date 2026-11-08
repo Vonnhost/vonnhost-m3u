@@ -1,0 +1,349 @@
+#EXTM3U
+#PLAYLIST:playlist
+# Built with the CODECS.COM Playlist Builder
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZN5AMJu.png" group-title="Entertainment",JPV TV
+https://183.bozztv.com/giatv/giatv-jpvtvph/jpvtvph/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="Religious",CCTN 47
+https://cctn47.vonnhost.workers.dev/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e89uCE4.jpeg" group-title="Entertainment",AVL TV
+https://baytvteleradyo.vonnhost1.workers.dev/bay.live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.deltabroadcastingsystem.com/wp-content/themes/delta2/images/logo.svg" group-title="Religious",DWXI 1314 KHZ
+https://dwxi-stream-proxy.vonnhost1.workers.dev/stream.mp3
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxworld-logo-i1.png" group-title="AXCS",MUX World
+https://live20.bozztv.com/giatvplayout7/giatv-209297/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxjuan-logo-i1.png" group-title="AXCS",MUX Juan
+https://live20.bozztv.com/giatvplayout7/giatv-209323/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxdos-logo-i1.png" group-title="AXCS",MUX Dos
+https://live20.bozztv.com/giatvplayout7/giatv-209333/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxlife-logo-i1.png" group-title="AXCS",MUX Life
+https://live20.bozztv.com/giatvplayout7/giatv-209362/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxmovies-logo-i1.png" group-title="AXCS",MUX Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209412/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxnews-logo-i1.png" group-title="AXCS",MUX News
+https://live20.bozztv.com/giatvplayout7/giatv-209306/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://github.com/muxdigital/xum/raw/feed/img/mux/muxsports-logo-i1.png" group-title="AXCS",MUX Sports
+https://live20.bozztv.com/giatvplayout7/giatv-209395/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://i.imgur.com/E3q2kTu.png" group-title="AXCS",Rage TV
+https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="()" tvg-logo="https://i.imgur.com/zcFUYC5.png" group-title="AXCS",SineManila
+https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.manilatimes.net/theme_manilatimes/images/favicon.png" group-title="News",The Manila Times
+https://customer-ksrwu2hvu2ipx2fb.cloudflarestream.com/121fd4c01c7ed1c0b1d2c6699e52309a/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fwww.manilatimes.net
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2132991_star-movies-hd-logo.png" group-title="Movies",STAR MOVIES HD
+https://183.bozztv.com/moon/Star-Movies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20240313194438" group-title="Movies",STAR MOVIES SELECT
+https://183.bozztv.com/moon/STAR-MOVIES-SEL-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="heartofasia" tvg-logo="https://maruyatvph.com/heartofasia.png" group-title="Feeds",Heart of Asia
+https://maruyatvph.com/con/heartofasia.mpd
+
+#EXTINF:-1 tvg-id="bbcnews" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_World_News_v2.png" group-title="Converge",BBC News
+https://maruyatvph.com/con/bbcnews.mpd
+
+#EXTINF:-1 tvg-id="oneph" tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="Converge",One PH
+https://maruyatvph.com/con/oneph.mpd
+
+#EXTINF:-1 tvg-id="raiitalia" tvg-logo="https://i.imgur.com/omP283K.png" group-title="Converge",Rai Italia
+https://maruyatvph.com/con/raiitalia.mpd
+
+#EXTINF:-1 tvg-id="rjtvradyobandidotv" tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/c/c0/VOP_Logo.png" group-title="Converge",RJTV Radyo Bandido TV
+https://maruyatvph.com/con/rjtvradyobandidotv.mpd
+
+#EXTINF:-1 tvg-id="cgtndocumentary" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CGTN_DOC.png" group-title="Converge",CGTN Documentary
+https://maruyatvph.com/con/cgtndocumentary.mpd
+
+#EXTINF:-1 tvg-id="pinoyxtremechannel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Pinoyextremechannel.png" group-title="Converge",Pinoy Xtreme Channel
+https://maruyatvph.com/con/pinoyxtremechannel.mpd
+
+#EXTINF:-1 tvg-id="ddnational" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png" group-title="Converge",DD National
+https://maruyatvph.com/con/ddnational.mpd
+
+#EXTINF:-1 tvg-id="hunantv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/HNTV_logo.png" group-title="Converge",Hunan TV
+https://maruyatvph.com/con/hunantv.mpd
+
+#EXTINF:-1 tvg-id="3abn" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/3ABN_2011.svg" group-title="Converge",3ABN
+https://maruyatvph.com/con/3abn.mpd
+
+#EXTINF:-1 tvg-id="wion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/WION_news_Logo.svg" group-title="Converge",WION
+https://maruyatvph.com/con/wion.mpd
+
+#EXTINF:-1 tvg-id="euronews" tvg-logo="https://i.imgur.com/bBNpuCE.jpeg" group-title="Converge",EuroNews
+https://maruyatvph.com/con/euronews.mpd
+
+#EXTINF:-1 tvg-id="daaitv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Da_Ai_Television_%28Taiwan%29_logo.png" group-title="Converge",Daai TV
+https://maruyatvph.com/con/daaitv.mpd
+
+#EXTINF:-1 tvg-id="animax" tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="Converge",Animax
+https://maruyatvph.com/con/animax.mpd
+
+#EXTINF:-1 tvg-id="onenews" tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="Converge",One News
+https://maruyatvph.com/con/onenews.mpd
+
+#EXTINF:-1 tvg-id="animalplanet" tvg-logo="https://i.imgur.com/2eC2VJ9.png" group-title="Converge",Animal Planet
+https://maruyatvph.com/con/animalplanet.mpd
+
+#EXTINF:-1 tvg-id="discoveryasia" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/33/Discovery_Asia_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20180408072813" group-title="Converge",Discovery Asia
+https://maruyatvph.com/con/discoveryasia.mpd
+
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="Converge",HBO
+https://maruyatvph.com/con/hbo.mpd
+
+#EXTINF:-1 tvg-id="cnninternational" tvg-logo="https://i.imgur.com/vkJfHaP.png" group-title="Converge",CNN International
+https://maruyatvph.com/con/cnninternational.mpd
+
+#EXTINF:-1 tvg-id="celestialmoviespinoy" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="Converge",Celestial Movies Pinoy
+https://maruyatvph.com/con/celestialmoviespinoy.mpd
+
+#EXTINF:-1 tvg-id="pbo" tvg-logo="https://i.imgur.com/61fHpnW.png" group-title="Converge",PBO
+https://maruyatvph.com/con/pbo.mpd
+
+#EXTINF:-1 tvg-id="vivacinema" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="Converge",Viva Cinema
+https://maruyatvph.com/con/vivacinema.mpd
+
+#EXTINF:-1 tvg-id="tmc" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Converge",TMC
+https://maruyatvph.com/con/tmc.mpd
+
+#EXTINF:-1 tvg-id="solarsports" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="Converge",SolarSports
+https://maruyatvph.com/con/solarsports.mpd
+
+#EXTINF:-1 tvg-id="onesports" tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5a/One_Sports_%28TV_channel%29_3D_Logo_2020.png/revision/latest?cb=20230520142737" group-title="Converge",One Sports
+https://maruyatvph.com/con/onesports.mpd
+
+#EXTINF:-1 tvg-id="ptv4" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" group-title="Converge",PTV4
+https://maruyatvph.com/con/ptv4.mpd
+
+#EXTINF:-1 tvg-id="a2z" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="Converge",A2Z
+https://maruyatvph.com/con/a2z.mpd
+
+#EXTINF:-1 tvg-id="tv5" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Converge",TV5
+https://maruyatvph.com/con/tv5.mpd
+
+#EXTINF:-1 tvg-id="ibc13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title="Converge",IBC 13
+https://maruyatvph.com/con/ibc13.mpd
+
+#EXTINF:-1 tvg-id="net25" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="Converge",NET 25
+https://maruyatvph.com/con/net25.mpd
+
+#EXTINF:-1 tvg-id="untv" tvg-logo="https://static.wikia.nocookie.net/dxs/images/c/c3/UNTV_Public_Service_Logo_2022.png/revision/latest?cb=20221014202457" group-title="Converge",UNTV
+https://maruyatvph.com/con/untv.mpd
+
+#EXTINF:-1 tvg-id="inctv" tvg-logo="https://i.imgur.com/b6JmGBq.png" group-title="Converge",INC TV
+https://maruyatvph.com/con/inctv.mpd
+
+#EXTINF:-1 tvg-id="gma7" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Converge",GMA 7
+https://maruyatvph.com/con/gma7.mpd
+
+#EXTINF:-1 tvg-id="rptv" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png/revision/latest?cb=20240305140432" group-title="Converge",RPTV
+https://maruyatvph.com/con/rptv.mpd
+
+#EXTINF:-1 tvg-id="warnertv" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="Converge",Warner TV
+https://maruyatvph.com/con/warnertv.mpd
+
+#EXTINF:-1 tvg-id="fashiontv" tvg-logo="https://i.imgur.com/Zd5zm7C.png" group-title="Converge",Fashion TV
+https://maruyatvph.com/con/fashiontv.mpd
+
+#EXTINF:-1 tvg-id="lighttv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkvWEPQltk-Xq-ixCjPdOGxoqgIlMsc095A&s" group-title="Converge",Light TV
+https://maruyatvph.com/con/lighttv.mpd
+
+#EXTINF:-1 tvg-id="ewtn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq8NjV5sqkKOgSpV7-Nj5Dd0KHMVhrtW6ukg&s" group-title="Converge",EWTN
+https://maruyatvph.com/con/ewtn.mpd
+
+#EXTINF:-1 tvg-id="channelnewsasia" tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="Converge",Channel News Asia
+https://maruyatvph.com/con/channelnewsasia.mpd
+
+#EXTINF:-1 tvg-id="arirang" tvg-logo="https://i.imgur.com/RfYF4Af.png" group-title="Converge",Arirang
+https://maruyatvph.com/con/arirang.mpd
+
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Converge",Cinemax
+https://maruyatvph.com/con/cinemax.mpd
+
+#EXTINF:-1 tvg-id="aliwchannel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ABCLogo.png/revision/latest?cb=20161012105022" group-title="Converge",Aliw Channel
+https://maruyatvph.com/con/aliwchannel.mpd
+
+#EXTINF:-1 tvg-id="abcaustralia" tvg-logo="https://i.imgur.com/kVVax44.png" group-title="Converge",ABC Australia
+https://maruyatvph.com/con/abcaustralia.mpd
+
+#EXTINF:-1 tvg-id="tveinternacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/TVE_Internacional_old.png/revision/latest?cb=20220507144624" group-title="Converge",TVE Internacional
+https://maruyatvph.com/con/tveinternacional.mpd
+
+#EXTINF:-1 tvg-id="phoenixchinesechannel" tvg-logo="https://i.imgur.com/yqTGQSU.jpeg" group-title="Converge",Phoenix Chinese Channel
+https://maruyatvph.com/con/phoenixchinesechannel.mpd
+
+#EXTINF:-1 tvg-id="mindanownetwork" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqndReZ8wqIcJO39ZUlQnjeayPJ-11_bVnow&s" group-title="Converge",Mindanow Network
+https://maruyatvph.com/con/mindanownetwork.mpd
+
+#EXTINF:-1 tvg-id="bilyonaryochannel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10" group-title="Converge",Bilyonaryo Channel
+https://maruyatvph.com/con/bilyonaryochannel.mpd
+
+#EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="Converge",Cartoonito
+https://maruyatvph.com/con/cartoonito.mpd
+
+#EXTINF:-1 tvg-id="premierfootball" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/44/Premier_Football_Logo_November_2020.png/revision/latest/scale-to-width-down/250?cb=20220402065521" group-title="Converge",Premier Football
+https://maruyatvph.com/con/premierfootball.mpd
+
+#EXTINF:-1 tvg-id="spotlighttv" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/3/32/Spotlight.png" group-title="Converge",Spotlight TV
+https://maruyatvph.com/con/spotlighttv.mpd
+
+#EXTINF:-1 tvg-id="premiersports" tvg-logo="https://i.imgur.com/70HMV2A.png" group-title="Converge",Premier Sports
+https://maruyatvph.com/con/premiersports.mpd
+
+#EXTINF:-1 tvg-id="gtv" tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Converge",GTV
+https://maruyatvph.com/con/gtv.mpd
+
+#EXTINF:-1 tvg-id="nhkworldjapan" tvg-logo="https://i.imgur.com/3zp7a0B.png" group-title="Converge",NHK World Japan
+https://maruyatvph.com/con/nhkworldjapan.mpd
+
+#EXTINF:-1 tvg-id="cgtn" tvg-logo="https://i.imgur.com/7k7MZQl.png" group-title="Converge",CGTN
+https://maruyatvph.com/con/cgtn.mpd
+
+#EXTINF:-1 tvg-id="tbnasia" tvg-logo="https://avpn.asia/wp-content/uploads/2018/07/TBN-Asia-Logo.jpg" group-title="Converge",TBN Asia
+https://maruyatvph.com/con/tbnasia.mpd
+
+#EXTINF:-1 tvg-id="taptv" tvg-logo="https://i.imgur.com/KJaSftF.png" group-title="Converge",Tap TV
+https://maruyatvph.com/con/taptv.mpd
+
+#EXTINF:-1 tvg-id="tapedge" tvg-logo="https://i.imgur.com/3YvDUjL.png" group-title="Converge",Tap Edge
+https://maruyatvph.com/con/tapedge.mpd
+
+#EXTINF:-1 tvg-id="tapsports" tvg-logo="https://i.imgur.com/ZsWDiRF.png" group-title="Converge",Tap Sports
+https://maruyatvph.com/con/tapsports.mpd
+
+#EXTINF:-1 tvg-id="hallypop" tvg-logo="https://magmediaintl.com/images/logochannels/Hallypop%20Logo.png" group-title="Converge",Hallypop
+https://maruyatvph.com/con/hallypop.mpd
+
+#EXTINF:-1 tvg-id="livingasiachannel" tvg-logo="https://i.imgur.com/Wsj7iPd.png" group-title="Converge",Living Asia Channel
+https://maruyatvph.com/con/livingasiachannel.mpd
+
+#EXTINF:-1 tvg-id="smnichannel" tvg-logo="https://i.imgur.com/WL2ugeZ.png" group-title="Converge",SMNI Channel
+https://maruyatvph.com/con/smnichannel.mpd
+
+#EXTINF:-1 tvg-id="tv5monde" tvg-logo="https://i.imgur.com/Z1cEtSX.png" group-title="Converge",TV5 Monde
+https://maruyatvph.com/con/tv5monde.mpd
+
+#EXTINF:-1 tvg-id="france24" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Converge",France24
+https://maruyatvph.com/con/france24.mpd
+
+#EXTINF:-1 tvg-id="rjtv29" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Screenshot_2019-08-30_at_5.25.09_PM.png" group-title="Converge",RJTV 29
+https://maruyatvph.com/con/rjtv29.mpd
+
+#EXTINF:-1 tvg-id="tvmaria" tvg-logo="https://tvmaria.ph/wp-content/uploads/2021/11/49664812_1960528887328520_738333465484722176_n.png" group-title="Converge",TV Maria
+https://maruyatvph.com/con/tvmaria.mpd
+
+#EXTINF:-1 tvg-id="bsfuji" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/BS_Fuji_2008_alt.svg/revision/latest/scale-to-width-down/250?cb=20240719135358" group-title="Converge",BS Fuji
+https://maruyatvph.com/con/bsfuji.mpd
+
+#EXTINF:-1 tvg-id="dwnews" tvg-logo="https://i.imgur.com/FA87vnj.png" group-title="Converge",DW News
+https://maruyatvph.com/con/dwnews.mpd
+
+#EXTINF:-1 tvg-id="dzrhtv" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png/revision/latest?cb=20211215134648" group-title="Converge",DZRH TV
+https://maruyatvph.com/con/dzrhtv.mpd
+
+#EXTINF:-1 tvg-id="goodtv" tvg-logo="https://i.imgur.com/0ZDw53x.png" group-title="Converge",Good TV
+https://maruyatvph.com/con/goodtv.mpd
+
+#EXTINF:-1 tvg-id="sauditv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ItYMF-jQgNwrYf1yGCTFpDuFz0T-t9Ba9A&s" group-title="Converge",Saudi TV
+https://maruyatvph.com/con/sauditv.mpd
+
+#EXTINF:-1 tvg-id="rocktvofmanila" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Rock_Manila_Logo_2023.png/revision/latest?cb=20240316065316" group-title="Converge",Rock TV of Manila
+https://maruyatvph.com/con/rocktvofmanila.mpd
+
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" group-title="Converge",Cartoon Network
+https://maruyatvph.com/con/cartoonnetwork.mpd
+
+#EXTINF:-1 tvg-id="alltv" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="Converge",ALL TV
+https://maruyatvph.com/con/alltv.mpd
+
+#EXTINF:-1 tvg-id="filamtv" tvg-logo="https://i.imgur.com/CbjwXj8.jpeg" group-title="Converge",Filam TV
+https://maruyatvph.com/con/filamtv.mpd
+
+#EXTINF:-1 tvg-id="lotusmacao" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="Converge",Lotus Macao
+https://maruyatvph.com/con/lotusmacao.mpd
+
+#EXTINF:-1 tvg-id="usatoday" tvg-logo="https://i.imgur.com/UjJZCIK.png" group-title="Converge",USA Today
+https://maruyatvph.com/con/usatoday.mpd
+
+#EXTINF:-1 tvg-id="bs10" tvg-logo="https://i.imgur.com/hFPkkKu.png" group-title="Converge",BS10
+https://maruyatvph.com/con/bs10.mpd
+
+#EXTINF:-1 tvg-id="premiersports2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/PremierSports2_logo.png/revision/latest/scale-to-width-down/250?cb=20220528091432" group-title="Converge",Premier Sports 2
+https://maruyatvph.com/con/premiersports2.mpd
+
+#EXTINF:-1 tvg-id="bsnittele" tvg-logo="https://i.imgur.com/A6e6dYs.png" group-title="Converge",BS Nittele
+https://maruyatvph.com/con/bsnittele.mpd
+
+#EXTINF:-1 tvg-id="nhkbs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/NHK_BS_Premium_2011.svg/revision/latest?cb=20240718143008" group-title="Converge",NHK BS
+https://maruyatvph.com/con/nhkbs.mpd
+
+#EXTINF:-1 tvg-id="nickjr" tvg-logo="https://i.imgur.com/4MozyqM.png" group-title="Converge",Nick Jr
+https://maruyatvph.com/con/nickjr.mpd
+
+#EXTINF:-1 tvg-id="anc" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="Converge",ANC
+https://maruyatvph.com/con/anc.mpd
+
+#EXTINF:-1 tvg-id="cctv4" tvg-logo="https://i.imgur.com/HBisPOA.png" group-title="Converge",CCTV4
+https://maruyatvph.com/con/cctv4.mpd
+
+#EXTINF:-1 tvg-id="gnn" tvg-logo="https://i.imgur.com/m6EFnqh.png" group-title="Converge",GNN
+https://maruyatvph.com/con/gnn.mpd
+
+#EXTINF:-1 tvg-id="solarflix" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Converge",Solarflix
+https://maruyatvph.com/con/solarflix.mpd
+
+#EXTINF:-1 tvg-id="celestialclassicmovies" tvg-logo="https://i.imgur.com/Ira8Sqc.png" group-title="Converge",Celestial Classic Movies
+https://maruyatvph.com/con/celestialclassicmovies.mpd
+
+#EXTINF:-1 tvg-id="dzmmteleradyo" tvg-logo="https://i.imgur.com/npj41pk.png" group-title="Converge",DZMM Teleradyo
+https://maruyatvph.com/con/dzmmteleradyo.mpd
+
+#EXTINF:-1 tvg-id="jeepneytv" tvg-logo="https://i.imgur.com/XETRxUk.png" group-title="Converge",Jeepney TV
+https://maruyatvph.com/con/jeepneytv.mpd
+
+#EXTINF:-1 tvg-id="myxphilippines" tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="Converge",MYX Philippines
+https://maruyatvph.com/con/myxphilippines.mpd
+
+#EXTINF:-1 tvg-id="thrill" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/Thrill_logo_2014.png/revision/latest/scale-to-width-down/306?cb=20220502112950&path-prefix=vi" group-title="Converge",THRILL
+https://maruyatvph.com/con/thrill.mpd
+
+#EXTINF:-1 tvg-id="cinemo" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Converge",Cinemo!
+https://maruyatvph.com/con/cinemo.mpd
+
+#EXTINF:-1 tvg-id="kix" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="Converge",KIX
+https://maruyatvph.com/con/kix.mpd
+
+#EXTINF:-1 tvg-id="metrochannel" tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c4/Metro_Channel_White_Logo_2018.png/revision/latest?cb=20210301130321" group-title="Converge",Metro Channel
+https://maruyatvph.com/con/metrochannel.mpd
+
+#EXTINF:-1 tvg-id="cinemaone" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="Converge",Cinema One
+https://maruyatvph.com/con/cinemaone.mpd
+
+#EXTINF:-1 tvg-id="tapmovies" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="Converge",Tap Movies
+https://maruyatvph.com/con/tapmovies.mpd
+
+#EXTINF:-1 tvg-id="tapactionflix" tvg-logo="https://i.imgur.com/oa0WOkN.png" group-title="Converge",Tap Action Flix
+https://maruyatvph.com/con/tapactionflix.mpd
+
+#EXTINF:-1 tvg-id="cltv36" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest?cb=20130823135759" group-title="Converge",CLTV 36
+https://maruyatvph.com/con/cltv36.mpd
+
+#EXTINF:-1 tvg-id="radiomaria" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Un5_BaTlKCiwEIH0RM1Kf2uuEWs7tC7rRQ&s" group-title="Converge",Radio Maria
+https://maruyatvph.com/con/radiomaria.mpd
+
+#EXTINF:-1 tvg-id="nbatv" tvg-logo="https://cdn.phenompeople.com/CareerConnectResources/NBANBAUS/social/1200x630-1670500675022.jpg?width=1980" group-title="Converge",NBA TV
+https://maruyatvph.com/con/nbatv.mpd
+
